@@ -513,9 +513,9 @@
  .bg-1QIAus {
   background: linear-gradient(#fdfdfd 0px,#bfbfbf 21px,#888 21px, #f3f3f3 24px)!important
 }
-.theme-dark .bg-1QIAus {
+/*.theme-dark .bg-1QIAus {
   background: linear-gradient(#46484c 0px,#2a2c2f 21px,#000 21px, #2b2e32 22px)!important
-}
+}*/
 .winButtonClose-3Q8ZH5, .winButtonMinMax-3RsPUg {
   border-left: solid 1px #0003;
   border-right: solid 1px #fff8;
